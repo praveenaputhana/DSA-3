@@ -1,0 +1,6 @@
+Search a word in a document
+Sort student marks
+Find the shortest path
+Find duplicate documents
+Solve Sudoku
+Compress a file
